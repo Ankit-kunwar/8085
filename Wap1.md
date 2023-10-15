@@ -1,4 +1,4 @@
-# Wap to convert 10 ASCII characters to their lowercase equivalents if there are any from memory location 9050h in 8085.
+# Wap to convert 10 ASCII characters to their lowercase equivalents if there are any uppercase from memory location 9050h in 8085.
 LXI H,9650
 MVI C,0AH
 LOOP:
